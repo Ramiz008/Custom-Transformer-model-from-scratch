@@ -2,6 +2,11 @@
 
 This project implements a Transformer model architecture **from scratch using PyTorch**, inspired by the original "Attention is All You Need" paper. It is trained on a **small dummy dataset** (few English to French sentence pairs) for the **purpose of testing architecture and understanding** — not production translation.
 
+## Why this project matters
+
+This project implements Transformer architecture from scratch (without Huggingface/nn.Transformer), showing step-by-step how attention, positional encoding, and decoding are used in a real translation task. Useful for learning and interview-ready understanding.
+
+
 ##  Files
 
 - `transformers_archi.ipynb`: Contains architecture
