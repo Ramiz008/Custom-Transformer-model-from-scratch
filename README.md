@@ -1,4 +1,5 @@
-# Transformer from Scratch (Minimal Dataset)
+# Transformer from Scratch (Minimal Dataset) 
+ **Self-attention please:** If it helped you — **consider leaving a ⭐. It motivates and helps others discover it!**
 
 This project implements a Transformer model architecture **from scratch using PyTorch**, inspired by the original "Attention is All You Need" paper. It is trained on a **small dummy dataset** (few English to French sentence pairs) for the **purpose of testing architecture and understanding** — not production translation.
 
@@ -36,3 +37,4 @@ This project implements Transformer architecture from scratch (without Huggingfa
 
 Made with 💻 by [Ramiz Raza]
 
+> 💡 If this repo helped you understand Transformers better, please consider leaving a ⭐!
